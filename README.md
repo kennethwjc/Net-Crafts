@@ -9,4 +9,3 @@ This project focuses on network mapping and information collection, aiming to pr
 - <b>Shodan</b> 
 - <b>Whois</b>
 - <b>Wireshark</b>
-- <b>draw.io</b>
